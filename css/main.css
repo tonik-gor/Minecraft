@@ -1,0 +1,375 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+body{
+  font-family: Arial;
+  font-size: 16px;
+}
+
+.header_top{
+	background: #37a14c;
+	height: 46px;
+	width: 1280px;
+	margin:0 auto;
+}
+
+.header_top p{
+	color: #fff;
+	line-height: 46px;
+	display: inline-block; 
+}
+
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.social{
+	float: right;
+	margin-top: 9px;
+
+}
+.header_content{
+	float: left;
+}
+
+.donat{
+	margin-left: 40px;
+}
+
+.skype{
+	margin-left: 40px;
+}
+
+.logo{
+   float: left;
+   width: -5px;
+   margin-top: 7px;
+}	
+
+.header_main_contact{
+	/*float: left;*/
+    margin-left: 42px;
+
+}
+
+.bserver{
+ margin-left: 30px;
+ margin-top: 10px;
+ background-color:#fdce09;
+ border-radius: 4px;
+ width: 130px;
+ color: white;
+ height: 33px;	
+}
+
+.minecraft{
+	float: right;
+	margin-top: 20px;
+}
+
+.server{
+	display: inline-block;
+}
+
+.admin{
+	color: green;
+	margin-top: 12px;
+
+}
+
+.donat{
+	color: green;
+
+}
+
+.nomer{
+	margin-left:58px;
+}
+
+.km7{
+	color: blue;
+	line-height: 2.2em;
+
+}
+
+.skype_img{
+   height: 15px;
+   display:block;
+   margin-top: 10px;
+   margin-right: 2px;
+   float: left;
+}
+
+.skype p {
+	float: left;
+	line-height: 2.2em;
+}
+
+
+.header_main_menu{
+	margin-left: 160px;
+}
+
+
+.menu {
+    display: inline-block;
+    background: linear-gradient(to top, #41b457, #51c066);
+    width: 960px;
+    height: 45px;
+    margin: 0 auto;
+}
+
+.navigation {
+ display: inline-block;
+ background: linear-gradient(to top, #3d9b50, #51c066);
+ width: 1280px;
+ height: 45px;
+}
+
+.navi {
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: bold;
+ margin-left: 150px;
+}
+
+.element__navi {
+ display: inline-block;
+ margin: 0;
+ padding: 0;
+ margin-top: 14px;
+ margin-left: -5px;
+ width: 197px;
+ height: 45px;
+ text-align: center;
+}
+
+.link {
+    display: block; 
+    padding: 12px; 
+    text-decoration: none;
+    color: #fff;
+    margin-top: -13px;
+    height: 19px;
+    border-left: 1px solid #57e974;
+ border-right: 1px solid #57e974;
+}
+
+.link:hover {
+    color: #fff;
+    background-color: #3cc256; 
+}
+
+.world_minecraft {
+	display: inline-block;
+	margin-left: 300px;
+	width: 300px;
+	margin-top: 28px;
+	font-weight:bold;
+	float: left;
+	font-size: 20px;
+}
+
+.menu_two {
+	padding-left: 40px;
+	color: red;
+	margin-top: 15px;
+	font-weight: normal;
+	border-bottom: 1px solid #e7e7e7;
+
+}
+.menu_two ul{
+	list-style: none;
+	font-size: 17px;
+}
+
+.menu_two ul li:before{
+	content: '- ';
+}
+
+.industrial {
+    padding-top: 15px;
+    font-size: 20px;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.optifine {
+	padding-top: 15px;
+	font-size: 20px;
+	border-bottom: 1px solid #e7e7e7;
+}
+
+.forge {
+	padding-top: 15px;
+	font-size: 20px;
+	border-bottom: 1px solid #e7e7e7;
+}
+
+.toomanyitems {
+	padding-top: 15px;
+	font-size: 20px;
+	border-bottom: 1px solid #e7e7e7;
+
+}
+
+.railcraft {
+	padding-top: 15px;
+	font-size: 20px;
+	border-bottom: 1px solid #e7e7e7;
+}
+
+.content {
+	padding-top: 22px;
+	font-size: 13px;
+
+}
+
+.content p {
+	font-family: Arial;
+	font-size: 14px;
+	width: 725px;
+    margin-left: 600px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+hr {
+	width: 725px;
+	margin-left: 600px;
+	color: #e7e7e7;
+}
+
+.news {
+   font-size: 10px;
+   padding-top: 25px;
+   margin-left: 600px; 
+}
+
+.new {
+	display: inline-block;
+	margin-left: 600px;
+}
+
+.block {
+	font-size: 14px;
+	padding-top: 25px;
+	display: block;
+	float: left;
+	background: linear-gradient(to top, #329545, #57e974);
+	margin-bottom: 10px;
+	margin-left: 10px;	
+}
+
+.block h1{
+	font-size: 14px;
+	margin-left: 10px;
+}	
+
+.block p{
+	color: white;
+	margin-left: 10px;
+	padding-bottom: 15px
+}
+
+.block__img {
+	display: block;
+}
+
+.img_2 {
+	padding-top: 16px;
+
+}
+.block_1 {
+	margin-left: 	0px;
+}
+
+.servak {
+   padding-top: 25px;
+   display: block;
+   margin: 0 auto;	
+   background:linear-gradient(to top, #f2b307,#f0b106);
+   width: 1280px; 
+   height: 98px;  
+}
+
+.servak h1 {
+	font-size: 20px;
+	color: #fff;
+	margin-left: 150px;
+
+}
+
+.text {
+    font-size: 16px;
+    margin: -61px -87px;
+    display: block;
+    float: right;
+    line-height: 5em;
+}
+
+.tel {
+	font-weight: bold;
+	font-size: 20px;
+	display: block;
+	float:right;
+	margin: -41px 114px;
+    line-height: 2em;
+}
+
+.footer {
+   background: #43b359;
+   width: 1280px;
+   height: 90px;
+   display: block;
+   margin: 0 auto;
+}
+
+.reklama-1 {
+   margin-right:45px; 
+   margin-left:150px; 
+   padding: 10px;
+   float:left;
+}
+
+.reklama-2 {
+   margin-right: 45px;
+   padding: 10px;
+   float: left;
+}
+
+.reklama-3 {
+   margin-right: 45px;
+   padding: 10px;
+   float: left;
+}
+
+.reklama-4 {
+   margin-right: 45px;
+   padding: 10px;
+   float: left;
+}
+
+.text__footer p {
+	float: left;
+	padding:21px;
+	margin-left: 270px;
+     	
+}
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
